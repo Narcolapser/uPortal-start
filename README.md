@@ -239,7 +239,7 @@ characters.
 
 Your skin files will be placed inside `overlays/uPortal/src/main/webapp/media/skins/respondr`.  You
 can adjust many common settings in `variables.less`;  use `skin.less` to define CSS rules (in LESS
-syntax) that override the default uPortal/Respondr CSS.
+syntax) that override the default uPortal/Respondr CSS. (Please refer to the [skinning](https://jasig.github.io/uPortal/implement/frontend/SKINNING_UPORTAL.html) portion of the manual for full instructions)
 
 ### How To Configure Your Deployment
 
